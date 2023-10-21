@@ -1,0 +1,38 @@
+.menu {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.tiklogo {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px; /* Adjust the font size for better mobile readability */
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.formp{
+    padding-left: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+}
+.contact-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px; /* Adjust the font size for better mobile readability */
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 600px) {
+    .left {
+        max-width: 100%;
+    }
+}
